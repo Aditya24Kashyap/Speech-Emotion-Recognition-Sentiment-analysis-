@@ -3,6 +3,9 @@
 ## 📌 Overview
 This project builds a Speech Emotion Recognition (SER) system that classifies human emotions from audio signals using deep learning.
 
+For preview :-
+https://colab.research.google.com/drive/1fVrD62Re8VUIBV4lxedE7nf123m8IPX8#scrollTo=7HTU-dCoFr1e
+
 ## 🎯 Objective
 To classify speech into 8 emotions:
 - Happy
