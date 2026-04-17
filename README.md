@@ -1,8 +1,5 @@
 # 🎙 Speech Emotion Recognition using Deep Learning
 
-## For preview :-
-https://colab.research.google.com/drive/1fVrD62Re8VUIBV4lxedE7nf123m8IPX8#scrollTo=7HTU-dCoFr1e
-
 ## 📌 Overview
 This project builds a Speech Emotion Recognition (SER) system that classifies human emotions from audio signals using deep learning.
 
